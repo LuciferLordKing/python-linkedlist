@@ -4,4 +4,4 @@ https://pypi.org/project/python-linkedlist/
 
 ---
 ## Installation
-`python -m pip install python-linkedlist`
+```$ python -m pip install python-linkedlist```
