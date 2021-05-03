@@ -1,7 +1,11 @@
 # python-linkedlist
 
+## Requirements
+* Python 3
+* PyPI
+
 ## Links
-[Github](https://github.com/LuciferLordKing/python-linkedlist) | [PyPi](https://pypi.org/project/python-linkedlist)
+[GitHub](https://github.com/LuciferLordKing/python-linkedlist) | [PyPI](https://pypi.org/project/python-linkedlist)
 
 ## Installation
 Install latest release from [PyPI](https://pypi.org) via pip:
