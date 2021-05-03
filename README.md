@@ -1,6 +1,7 @@
 # python-linkedlist
 
-https://pypi.org/project/python-linkedlist/
+## Links
+[PyPi](https://pypi.org/project/python-linkedlist)
 
 ---
 ## Installation
