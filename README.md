@@ -1,9 +1,8 @@
 # python-linkedlist
 
 ## Links
-[PyPi](https://pypi.org/project/python-linkedlist)
+[Github](https://github.com/LuciferLordKing/python-linkedlist) | [PyPi](https://pypi.org/project/python-linkedlist)
 
----
 ## Installation
 Install latest release from [PyPI](https://pypi.org) via pip:
 
