@@ -14,4 +14,6 @@ Or the freshest bleeding-edge code directly from [GitHub](https://github.com/Luc
 
 Using pip:
 
+* ```$ pip3 install python-linkedlist -U```
+
 * ```$ python3 -m pip install python-linkedlist -U```
