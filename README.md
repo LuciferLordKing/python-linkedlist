@@ -21,3 +21,9 @@ Using pip:
 * ```$ pip3 install python-linkedlist -U```
 
 * ```$ python3 -m pip install python-linkedlist -U```
+
+## Usage
+```py
+from linkedadt import LinkedList
+linkedlist = LinkedList()
+```
