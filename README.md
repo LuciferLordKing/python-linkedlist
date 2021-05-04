@@ -26,4 +26,10 @@ Using pip:
 ```py
 from linkedadt import LinkedList
 linkedlist = LinkedList()
+
+linkedlist.append(x)
+
+linkedlist.pop()
+
+len(linkedlist)
 ```
